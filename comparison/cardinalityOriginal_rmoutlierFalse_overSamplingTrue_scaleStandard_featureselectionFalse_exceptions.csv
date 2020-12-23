@@ -1,0 +1,2 @@
+;model;exception
+0;ensemble2;predict_proba is not available when  probability=False
