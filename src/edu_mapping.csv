@@ -1,0 +1,17 @@
+﻿name;group1;level_1;group_level_2;numeric;level_0;low;original
+PhD;adv;5;3;14;high;++;PhD
+Professional School + PostGraduation;adv;5;2;13;high;+;ProfessionalSchoolPostGraduation
+Masters + PostGraduation;adv;5;1;12;high;++;MastersPostGraduation
+Professional School;adv;5;0;11;high;-;ProfessionalSchool
+Masters;adv;5;0;11;high;++;Masters
+Bachelors + PostGraduation;undergrad;4;1;10;mid;++;BachelorsPostGraduation
+Bachelors;undergrad;4;0;9;mid;+;Bachelors
+High School + PostGraduation;high;3;3;8;mid;-;HighSchoolPostGraduation
+High School Complete;high;3;2;7;mid;--;HighSchoolComplete
+High School - 2nd Cycle;high;3;1;6;mid;--;HighSchool2ndCycle
+High School - 1st Cycle;high;3;0;5;mid;--;HighSchool1stCycle
+Middle School Complete;mid;2;2;4;low;--;MiddleSchoolComplete
+Middle School - 2nd Cycle;mid;2;1;3;low;--;MiddleSchool2ndCycle
+Middle School - 1st Cycle;mid;2;0;2;low;--;MiddleSchool1stCycle
+Primary School;compulsory;1;0;1;low;--;PrimarySchool
+Preschool;Preschool;0;0;0;low;--;Preschool
